@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "寂しくて眠れない夜は",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-19T16:31:34.782258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は (Live in church ver.)",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/01_寂しくて眠れない夜は_(Live_in_church_ver.)_Aimer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_寂しくて眠れない夜は_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/03_寂しくて眠れない夜は_Aimer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は（Live in church ver.）",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/04_寂しくて眠れない夜は(Live_in_church_ver.)_Aimer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_寂しくて眠れない夜は_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/06_寂しくて眠れない夜は_Aimer(エメ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "寂しくて眠れない夜は （Live in church ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_寂しくて眠れない夜は_(Live_in_church_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寂しくて眠れない夜は",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_寂しくて眠れない夜は_Aimer.txt"
+    }
+  ]
+}
